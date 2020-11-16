@@ -1,6 +1,6 @@
 # PHP Exercises 5
 
-I Class called Vehicles with the properties:
+__I. Class called Vehicles with the properties:__
 - name
 - model
 - makeYear
@@ -10,7 +10,7 @@ I Class called Vehicles with the properties:
 
 Three new objects from this Class. 
 
-II Class called Ships:
+__II. Class called Ships:__
 - Extend the Vehicles Class
 - New properties and methods to this Class.
 
